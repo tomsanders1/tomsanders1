@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **i can recite the entire script of megamind word for word**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
