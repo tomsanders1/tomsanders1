@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [on github](on github)
+- 👨‍💻 All of my projects are available on github
 
 - 💬 Ask me about **work experience**
 
